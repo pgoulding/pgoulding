@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Terraform automation, AWS and Azure, Python, and GoLang. I like to keep busy, and switching between projects scratches that itch.
+- 📫 How to reach me: Check my [personal website](https://www.pgoulding.dev/) for contact information or to schedule a time to meet with me!
+   
 <!--
 **pgoulding/pgoulding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
