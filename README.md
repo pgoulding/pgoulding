@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Terraform automation, AWS and Azure, Python, and GoLang. I like to keep busy, and switching between projects scratches that itch.
+- 🌱 I’m currently focused on learning GoLang.
 - 📫 How to reach me: Check my [personal website](https://www.pgoulding.dev/) for contact information or to schedule a time to meet with me!
-
 <br>
 
 ![pgoulding's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgoulding&theme=prussian&show_icons=true&hide_border=true&layout=compact)
@@ -11,6 +10,9 @@
 
 ![pgoulding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pgoulding&theme=prussian&hide_border=true)
 
+<br>
+
+![Codewars](https://github.r2v.ch/codewars?user=pgoulding&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <!--
 **pgoulding/pgoulding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
