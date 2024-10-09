@@ -12,7 +12,7 @@
 
 <br>
 
-![Codewars](https://github.r2v.ch/codewars?user=pgoulding&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=pgoulding&name=true&top_languages=true&stroke=%23b362ff&theme=blue_dark)
 <!--
 **pgoulding/pgoulding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
